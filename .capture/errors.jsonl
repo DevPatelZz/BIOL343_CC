@@ -1,0 +1,59 @@
+{"chunk":null,"ts":"2026-09-24T16:29:09Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: object 'sim_data' not found"}
+{"chunk":null,"ts":"2026-09-24T16:29:12Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: positpal::start(): the file BIOL343-CC1-template.Rmd does not exist (your working directory is /Users/devpatel/Library/CloudStorage/OneDrive-Queen'sUniversity/Year 3/BIOL343). Check the name, or pass the full path."}
+{"chunk":null,"ts":"2026-09-24T16:29:39Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: cannot open file './A1_Data_Excel.csv': No such file or directory"}
+{"chunk":null,"ts":"2026-09-24T16:29:39Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T16:29:41Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: cannot open file './A1_Data_Excel.csv': No such file or directory"}
+{"chunk":null,"ts":"2026-09-24T16:29:41Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T16:29:50Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: cannot open file './A1_Data_Excel.csv': No such file or directory"}
+{"chunk":null,"ts":"2026-09-24T16:29:50Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T16:30:03Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: cannot open file './A1_Data_Excel.csv': No such file or directory"}
+{"chunk":null,"ts":"2026-09-24T16:30:03Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T16:30:04Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: cannot open file './A1_Data_Excel.csv': No such file or directory"}
+{"chunk":null,"ts":"2026-09-24T16:30:04Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T16:30:35Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: cannot open file './A1_Data_Excel.csv': No such file or directory"}
+{"chunk":null,"ts":"2026-09-24T16:30:35Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T16:31:11Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: cannot open file './A1_Data_Excel.csv': No such file or directory"}
+{"chunk":null,"ts":"2026-09-24T16:31:11Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T16:36:32Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '|'"}
+{"chunk":null,"ts":"2026-09-24T16:38:50Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '|'"}
+{"chunk":null,"ts":"2026-09-24T16:39:44Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '|'"}
+{"chunk":null,"ts":"2026-09-24T16:39:57Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '|'"}
+{"chunk":null,"ts":"2026-09-24T16:40:24Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '|'"}
+{"chunk":null,"ts":"2026-09-24T16:40:34Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '|'"}
+{"chunk":null,"ts":"2026-09-24T16:40:57Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '|'"}
+{"chunk":null,"ts":"2026-09-24T16:43:48Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-24T16:45:28Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected symbol"}
+{"chunk":null,"ts":"2026-09-24T16:45:37Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: path[1]=\"Group_2_CC2.Rmd\": No such file or directory"}
+{"chunk":null,"ts":"2026-09-24T16:45:37Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: The file 'Group_2_CC2.Rmd' does not exist."}
+{"chunk":null,"ts":"2026-09-24T16:45:56Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: object 'rmarkdown' not found"}
+{"chunk":null,"ts":"2026-09-24T16:46:19Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: package ‘rmarkdown’ was built under R version 4.6.1"}
+{"chunk":null,"ts":"2026-09-24T16:46:38Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: object 'rmarkdown' not found"}
+{"chunk":null,"ts":"2026-09-24T16:50:00Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: cannot open file './A1_Data_Excel.csv': No such file or directory"}
+{"chunk":null,"ts":"2026-09-24T16:50:00Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T17:06:27Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: there is no package called ‘rmarkdon’"}
+{"chunk":null,"ts":"2026-09-24T17:06:38Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '>'"}
+{"chunk":null,"ts":"2026-09-24T17:06:43Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: object 'rmarkdown' not found"}
+{"chunk":null,"ts":"2026-09-24T17:07:04Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: object 'rmarkdown' not found"}
+{"chunk":null,"ts":"2026-09-24T17:08:07Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: object 'rmarkdown' not found"}
+{"chunk":null,"ts":"2026-09-24T17:08:28Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T17:09:30Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: 'raw = FALSE' but 'BIOL343_CC' is not a regular file"}
+{"chunk":null,"ts":"2026-09-24T17:09:30Z","pid":30323,"engine":"r","severity":"warning","render":false,"warning":"## Warning: cannot open file 'BIOL343_CC': it is a directory"}
+{"chunk":null,"ts":"2026-09-24T17:09:30Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T17:10:06Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T17:10:27Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: object 'wd' not found"}
+{"chunk":null,"ts":"2026-09-24T17:11:01Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: cannot open the connection"}
+{"chunk":null,"ts":"2026-09-24T17:11:23Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: object 'b' not found"}
+{"chunk":null,"ts":"2026-09-24T17:11:25Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '/'"}
+{"chunk":null,"ts":"2026-09-24T17:25:16Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:27:24Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:28:27Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:28:29Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:28:29Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:28:30Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:28:30Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:29:21Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:29:26Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:29:28Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:29:28Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:29:28Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
+{"chunk":null,"ts":"2026-09-24T17:30:04Z","pid":30323,"engine":"r","severity":"error","render":false,"text":"## Error: Syntax error: unexpected '='"}
